@@ -12,7 +12,7 @@ document.getElementById("searchForm")?.addEventListener("submit",async (e)=>{
 
 
   (document.getElementById("searchText")as HTMLInputElement).value="";
-}); 
+});
 import type { omdbResponse } from './models/omdbResponse';
 import './style.css'
 
