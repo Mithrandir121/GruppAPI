@@ -74,3 +74,4 @@ function createHtml (movie) {
   document.body.appendChild(movieElement);
 }
 >>>>>>> createHtml
+//skriver bara en kommentar här för test//
