@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 ﻿import type { omdbResponse } from './models/omdbResponse';
 import './style.css';
-import typescriptLogo from './typescript.svg';
-import viteLogo from '/vite.svg';
-import { setupCounter } from './counter.ts';
+
 
 // Small helper to fetch movies from OMDB
 const getMovies = async (query = 'harry') => {
